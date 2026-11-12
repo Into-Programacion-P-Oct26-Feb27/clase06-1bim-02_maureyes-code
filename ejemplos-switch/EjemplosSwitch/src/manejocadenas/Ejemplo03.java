@@ -45,3 +45,4 @@ public class Ejemplo03 {
         
     }
 }
+//String.format sirve para acomular cadenas
